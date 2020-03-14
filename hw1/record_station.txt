@@ -1,0 +1,224 @@
+-----------------
+Algo 1 < m3.dat
+Algorithm 1. Gram-Schmidt Process
+sigma = 1.77636e-15
+
+real    0m0.003s
+user    0m0.001s
+sys     0m0.002s
+-----------------
+Algo 1 < m4.dat
+Algorithm 1. Gram-Schmidt Process
+sigma = 2.08727e-10
+
+real    0m0.003s
+user    0m0.000s
+sys     0m0.003s
+-----------------
+Algo 1 < m5.dat
+Algorithm 1. Gram-Schmidt Process
+sigma = 5.75601e+08
+
+real    0m0.106s
+user    0m0.101s
+sys     0m0.003s
+-----------------
+Algo 1 < m6.dat
+Algorithm 1. Gram-Schmidt Process
+sigma = 2.48024e+10
+
+real    0m0.755s
+user    0m0.746s
+sys     0m0.007s
+-----------------
+Algo 1 < m7.dat
+Algorithm 1. Gram-Schmidt Process
+sigma = 3.54513e+11
+
+real    0m5.970s
+user    0m5.924s
+sys     0m0.019s
+-----------------
+Algo 1 < m8.dat
+Algorithm 1. Gram-Schmidt Process
+sigma = 4.7208e+13
+
+real    0m46.525s
+user    0m46.315s
+sys     0m0.086s
+-----------------
+Algo 1 < m9.dat
+Algorithm 1. Gram-Schmidt Process
+sigma = 3.83526e+14
+
+real    6m22.932s
+user    6m22.094s
+sys     0m0.271s
+-----------------
+Algo 2 < m3.dat
+Algorithm 2. Modified Gram-Schmidt Process, 1
+sigma = 0
+
+real    0m0.004s
+user    0m0.002s
+sys     0m0.001s
+-----------------
+Algo 2 < m4.dat
+Algorithm 2. Modified Gram-Schmidt Process, 1
+sigma = 3.54207e-13
+
+real    0m0.003s
+user    0m0.002s
+sys     0m0.000s
+-----------------
+Algo 2 < m5.dat
+Algorithm 2. Modified Gram-Schmidt Process, 1
+sigma = 5.61549e-10
+
+real    0m0.105s
+user    0m0.103s
+sys     0m0.002s
+-----------------
+Algo 2 < m6.dat
+Algorithm 2. Modified Gram-Schmidt Process, 1
+sigma = 4.76434e-09
+
+real    0m0.757s
+user    0m0.753s
+sys     0m0.005s
+-----------------
+Algo 2 < m7.dat
+Algorithm 2. Modified Gram-Schmidt Process, 1
+sigma = 4.09794e-08
+
+real    0m6.054s
+user    0m6.032s
+sys     0m0.016s
+-----------------
+Algo 2 < m8.dat
+Algorithm 2. Modified Gram-Schmidt Process, 1
+sigma = 4.19894e-07
+
+real    0m46.538s
+user    0m46.447s
+sys     0m0.055s
+-----------------
+Algo 2 < m9.dat
+Algorithm 2. Modified Gram-Schmidt Process, 1
+sigma = 3.91753e-06
+
+real    6m26.074s
+user    6m25.738s
+sys     0m0.234s
+-----------------
+Algo 3 < m3.dat
+Algorithm 3. Modified Gram-Schmidt Process, 2
+sigma = 0
+
+real    0m0.004s
+user    0m0.000s
+sys     0m0.003s
+-----------------
+Algo 3 < m4.dat
+Algorithm 3. Modified Gram-Schmidt Process, 2
+sigma = 1.23049e-12
+
+real    0m0.003s
+user    0m0.003s
+sys     0m0.000s
+-----------------
+Algo 3 < m5.dat
+Algorithm 3. Modified Gram-Schmidt Process, 2
+sigma = 2.61583e-09
+
+real    0m0.096s
+user    0m0.093s
+sys     0m0.002s
+-----------------
+Algo 3 < m6.dat
+Algorithm 3. Modified Gram-Schmidt Process, 2
+sigma = 2.7187e-08
+
+real    0m0.685s
+user    0m0.679s
+sys     0m0.005s
+-----------------
+Algo 3 < m7.dat
+Algorithm 3. Modified Gram-Schmidt Process, 2
+sigma = 3.22253e-07
+
+real    0m5.419s
+user    0m5.396s
+sys     0m0.015s
+-----------------
+Algo 3 < m8.dat
+Algorithm 3. Modified Gram-Schmidt Process, 2
+sigma = 3.41723e-06
+
+real    0m42.298s
+user    0m42.171s
+sys     0m0.059s
+-----------------
+Algo 3 < m9.dat
+Algorithm 3. Modified Gram-Schmidt Process, 2
+sigma = 4.20549e-05
+
+real    5m48.515s
+user    5m47.790s
+sys     0m0.258s
+-----------------
+Algo 4 < m3.dat
+Algorithm 4. Modified Gram-Schmidt Process, 3
+sigma = 0
+
+real    0m0.004s
+user    0m0.000s
+sys     0m0.003s
+-----------------
+Algo 4 < m4.dat
+Algorithm 4. Modified Gram-Schmidt Process, 3
+sigma = 1.23049e-12
+
+real    0m0.003s
+user    0m0.001s
+sys     0m0.002s
+-----------------
+Algo 4 < m5.dat
+Algorithm 4. Modified Gram-Schmidt Process, 3
+sigma = 2.61583e-09
+
+real    0m0.084s
+user    0m0.081s
+sys     0m0.003s
+-----------------
+Algo 4 < m6.dat
+Algorithm 4. Modified Gram-Schmidt Process, 3
+sigma = 2.7187e-08
+
+real    0m0.587s
+user    0m0.580s
+sys     0m0.006s
+-----------------
+Algo 4 < m7.dat
+Algorithm 4. Modified Gram-Schmidt Process, 3
+sigma = 3.22253e-07
+
+real    0m4.887s
+user    0m4.863s
+sys     0m0.018s
+-----------------
+Algo 4 < m8.dat
+Algorithm 4. Modified Gram-Schmidt Process, 3
+sigma = 3.41723e-06
+
+real    0m38.408s
+user    0m38.343s
+sys     0m0.058s
+-----------------
+Algo 4 < m9.dat
+Algorithm 4. Modified Gram-Schmidt Process, 3
+sigma = 4.20549e-05
+
+real    5m12.479s
+user    5m12.153s
+sys     0m0.227s
