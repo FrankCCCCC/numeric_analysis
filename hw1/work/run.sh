@@ -1,3 +1,4 @@
+# 2020/09/06 SYC
 #!/bin/bash
 
 g++ hw01.cpp VEC.cpp MAT.cpp -o hw01
